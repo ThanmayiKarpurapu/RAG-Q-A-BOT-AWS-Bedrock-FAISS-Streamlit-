@@ -5,6 +5,9 @@
 
 This project is a Retrieval-Augmented Generation (RAG) based assistant that answers user questions from a company leave policy document. It combines semantic search with a Large Language Model (LLM) to generate accurate, context-aware responses.
 
+<img width="1280" height="603" alt="image" src="https://github.com/user-attachments/assets/6a1b65b9-e6ec-49f2-8c76-2670f6d7f7f4" />
+
+
 ---
 
 ## 🚀 Features
